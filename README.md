@@ -14,9 +14,11 @@ git clone https://github.com/Petuha/my-tmux-config .
 
 `<prefix>` - `CTRL + SPACE`
 
-`ALT + SHIFT + Left/Right` - переключение окон
+`ALT + PageUp/PageDown` - переключение окон
+`ALT + Shift + PageUp/PageDown` - двигать текущее окно относительно других окон
 
 `<prefix> + n` - новое окно
 
 `<prefix> + ;` - ввести промт
 
+`<prefix> + c` - переход в copy-mode-vi
